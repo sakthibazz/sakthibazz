@@ -1,79 +1,179 @@
-# Hi 👋, I'm Sakthivel G
+```markdown
+<div align="center">
 
-## 🚀 Site Reliability Engineer | DevOps Engineer | AWS Cloud Enthusiast
+# 👋 Hi, I'm Sakthivel G
 
-I'm a Site Reliability Engineer passionate about building reliable, scalable, and secure cloud infrastructure. I enjoy working with AWS, Kubernetes, Docker, Terraform, CI/CD, and automation.
+### Site Reliability Engineer • DevOps Engineer • AWS Cloud Enthusiast
 
-🌱 Currently preparing for **AWS Certified Solutions Architect – Associate (SAA-C03)**
+Building reliable, scalable and automated cloud infrastructure.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sakthivel%20G-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakthibazz/)
+[![Email](https://img.shields.io/badge/Gmail-sakthibazz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakthibazz@gmail.com)
 
-## 🛠️ Tech Stack
+![](https://komarev.com/ghpvc/?username=sakthibazz&style=for-the-badge&color=blue)
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-Visualization-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
 
-- 🤖 TradeMentor AI
-- ☁️ AWS Infrastructure with Terraform
-- ☸️ Kubernetes Microservices Deployment
-- 🚀 Jenkins CI/CD Pipelines
-- 📚 AWS Solutions Architect Study Notes
+I'm a **Site Reliability Engineer** passionate about designing resilient cloud infrastructure, automating deployments, and improving system reliability.
+
+My interests include:
+
+- ☁️ AWS Cloud Architecture
+- 🚀 DevOps & Platform Engineering
+- ☸️ Kubernetes
+- 🏗 Infrastructure as Code
+- 🔐 Cloud Security
+- 📊 Monitoring & Observability
+- 🤖 AI-powered Cloud Applications
+
+Currently preparing for the **AWS Certified Solutions Architect – Associate (SAA-C03)** while building production-style cloud projects.
 
 ---
 
-## 🌱 Currently Learning
+# 🛠 Tech Stack
+
+### ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### 🚀 DevOps & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github,linux,bash" />
+</p>
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+### 📊 Monitoring
+
+- Prometheus
+- Grafana
+
+---
+
+# 📚 Currently Learning
 
 - AWS Solutions Architect Associate (SAA-C03)
-- Kubernetes
 - AWS Networking
-- Cloud Security
 - High Availability Architectures
+- Kubernetes Best Practices
+- Cloud Security
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakthibazz&show_icons=true&theme=tokyonight&hide_border=true)
+## 🤖 TradeMentor AI
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakthibazz&layout=compact&theme=tokyonight&hide_border=true)
+An AI-powered cloud-native trading mentor platform.
 
----
+**Highlights**
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sakthibazz&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sakthibazz&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+- FastAPI Backend
+- React Frontend
+- PostgreSQL
+- Docker
+- AI-powered market analysis
+- Modern cloud-native architecture
 
 ---
 
-## 📈 Profile Views
+## ☁️ AWS Infrastructure as Code
 
-![](https://komarev.com/ghpvc/?username=sakthibazz&style=for-the-badge)
+Production-ready AWS infrastructure using Terraform.
+
+Includes:
+
+- VPC
+- EC2
+- ALB
+- Security Groups
+- IAM
+- RDS
+- Auto Scaling
 
 ---
 
-## 📫 Connect With Me
+## ☸️ Kubernetes Production Deployment
 
-- 💼 LinkedIn: https://linkedin.com/in/sakthibazz
-- 📧 Email: sakthibazz@gmail.com
+Deploying applications using:
+
+- Deployments
+- Services
+- Ingress
+- ConfigMaps
+- Secrets
+- Persistent Volumes
 
 ---
 
-> *"Always learning. Always automating. Always improving."* 🚀
+# 🎯 2026 Goals
+
+- ✅ AWS Solutions Architect Associate
+- ✅ Build 5+ production-ready AWS projects
+- ✅ Contribute to Open Source
+- ✅ Master Kubernetes
+- ✅ Become a Cloud Solutions Architect
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakthibazz&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthibazz&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sakthibazz&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sakthibazz&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sakthibazz/">
+<img src="https://img.shields.io/badge/LinkedIn-Sakthivel_G-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sakthibazz@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-sakthibazz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Automate what is repetitive. Engineer what is reliable."
+
+</div>
+```
