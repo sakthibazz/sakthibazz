@@ -41,26 +41,130 @@ Currently preparing for the **AWS Certified Solutions Architect – Associate (S
 
 ### ☁️ Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS"/><br>
+  <b>AWS</b>
 </p>
 
 ### 🚀 DevOps & Infrastructure
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github,linux,bash" />
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" height="48"/><br/>
+Docker
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=kubernetes" height="48"/><br/>
+Kubernetes
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=terraform" height="48"/><br/>
+Terraform
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=jenkins" height="48"/><br/>
+Jenkins
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" height="48"/><br/>
+Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" height="48"/><br/>
+GitHub
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" height="48"/><br/>
+Linux
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bash" height="48"/><br/>
+Bash
+</td>
+</tr>
+</table>
 
 ### 💻 Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" height="48"/><br/>
+Python
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" height="48"/><br/>
+SQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=javascript" height="48"/><br/>
+JavaScript
+</td>
+
+</tr>
+</table>
 
 ### 📊 Monitoring
 
-- Prometheus
-- Grafana
+<table>
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="48"/><br/>
+Prometheus
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="48"/><br/>
+Grafana
+</td>
+
+</tr>
+</table>
+
+### 🌐 Web Technologies
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" height="48"/><br/>
+HTML5
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" height="48"/><br/>
+CSS3
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" height="48"/><br/>
+React
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" height="48"/><br/>
+Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vite" height="48"/><br/>
+Vite
+</td>
+
+</tr>
+</table>
 
 ---
 
