@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 👋 Hi, I'm Sakthivel G
@@ -176,4 +175,3 @@ Deploying applications using:
 ### ⭐ "Automate what is repetitive. Engineer what is reliable."
 
 </div>
-```
