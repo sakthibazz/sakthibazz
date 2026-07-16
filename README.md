@@ -17,20 +17,24 @@ Building reliable, scalable and automated cloud infrastructure.
 
 ## 🚀 About Me
 
-I'm a **Site Reliability Engineer** passionate about designing resilient cloud infrastructure, automating deployments, and improving system reliability.
+I'm a **Site Reliability Engineer** with **4 years of experience** designing, automating, and maintaining reliable cloud infrastructure and production environments.
 
-My interests include:
+I enjoy building scalable systems, automating infrastructure, and improving application reliability using modern DevOps practices.
+
+### 💡 Interests
 
 - ☁️ AWS Cloud Architecture
-- 🚀 DevOps & Platform Engineering
-- ☸️ Kubernetes
-- 🏗 Infrastructure as Code
+- 🚀 DevOps & Site Reliability Engineering
+- ☸️ Kubernetes & Cloud Native Technologies
+- 🏗️ Infrastructure as Code (Terraform)
+- 🌐 Full-Stack Web Development
+- 🎨 Modern Website Design & Development
+- 🤖 AI-Powered Applications
 - 🔐 Cloud Security
 - 📊 Monitoring & Observability
-- 🤖 AI-powered Cloud Applications
+- ⚡ Automation & Productivity Engineering
 
-Currently preparing for the **AWS Certified Solutions Architect – Associate (SAA-C03)** while building production-style cloud projects.
-
+Currently preparing for the **AWS Certified Solutions Architect – Associate (SAA-C03)** while building production-grade cloud-native applications and infrastructure.
 ---
 
 # 🛠 Tech Stack
